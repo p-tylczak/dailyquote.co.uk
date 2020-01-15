@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b4a9c28-fe9f-4001-bc7c-38904490c8bc" name="Default Changelist" comment="" />
+    <list default="true" id="7b4a9c28-fe9f-4001-bc7c-38904490c8bc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +32,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -67,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579047644780</updated>
-      <workItem from="1579047646236" duration="2211000" />
+      <workItem from="1579047646236" duration="3339000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1579047731235</created>
@@ -83,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579123530577</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="updated">
+      <created>1579125985090</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579125985090</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,21 +102,22 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="changed publicPath" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed publicPath" />
+    <MESSAGE value="updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="424" y="139" key="CommitChangelistDialog2" timestamp="1579123530363">
+    <state x="424" y="139" key="CommitChangelistDialog2" timestamp="1579125984890">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="424" y="139" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1579123530363" />
+    <state x="424" y="139" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1579125984890" />
     <state x="100" y="123" width="1480" height="827" key="DiffContextDialog" timestamp="1579123465703">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="100" y="123" width="1480" height="827" key="DiffContextDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1579123465703" />
-    <state x="440" y="276" key="Vcs.Push.Dialog.v2" timestamp="1579123532737">
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2" timestamp="1579125986618">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1579123532737" />
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1579125986618" />
     <state x="629" y="460" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579125970715">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
